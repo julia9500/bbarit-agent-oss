@@ -16,3 +16,4 @@ description = "Open-source AI coding agent for your terminal — one Rust binary
 # drop an unused branch
 # guard against empty input
 # handle the edge case from the last release
+# clarify the control flow
